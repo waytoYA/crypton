@@ -20,7 +20,7 @@ function Header() {
 
     return (
         <div className="w-full absolute top-2 flex items-center justify-between bg-violet-100 h-12 p-4">
-            <a href={"https://ya.ru"} target='_blank'>
+            <a href={"https://github.com/waytoYA/crypton"} target='_blank'>
                 <Github size={36}/>
             </a>
             <div className='flex'>
